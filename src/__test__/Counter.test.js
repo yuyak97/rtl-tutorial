@@ -1,5 +1,5 @@
 import React from 'react'
-import Counter from '../Counter'
+import Counter from '../components/Counter/Counter'
 import {render, fireEvent, cleanup} from '@testing-library/react'
 import '@testing-library/jest-dom/extend-expect'
 
